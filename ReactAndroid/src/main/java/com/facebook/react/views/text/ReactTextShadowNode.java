@@ -430,6 +430,8 @@ public class ReactTextShadowNode extends LayoutShadowNode {
     markUpdated();
   }
 
+	fdsafadfds()
+
 	@ReactProp(name = ViewProps.ALLOW_FONT_SCALING, defaultBoolean = true)
 	public void setAllowFontScaling(boolean allowFontScaling) {
 	 if (allowFontScaling != mAllowFontScaling) {
